@@ -13,7 +13,8 @@ public class minMax {
         int inRange = userInput.nextInt();
         
         //While loop (checking if the number is in the range of min and max)
-        while (inRange<=min ||  inRange>=max)
+        while (inRange<=min ||  inRange>=
+        max)
         {
             System.out.print("This number is not in range. Enter another number: ");
             inRange = userInput.nextInt();
