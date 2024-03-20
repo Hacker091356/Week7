@@ -9,6 +9,12 @@ public class GCD {
         int num1 = userInput.nextInt();
         System.out.print("\nEnter a second non-negative integer: ");
         int num2 = userInput.nextInt();
+        while (num2>0)
+        {
+            int temp = num1 % num2;
+            num1 = num2;
+            num2 = temp;
+        }
     }
     
 }
