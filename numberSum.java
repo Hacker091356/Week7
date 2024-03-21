@@ -1,3 +1,4 @@
+//Neil OZa
 //Importing the scanner
 import java.util.Scanner;
 

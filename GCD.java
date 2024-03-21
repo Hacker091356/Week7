@@ -1,3 +1,4 @@
+//Neil Oza
 //Importing scanner
 import java.util.Scanner;
 public class GCD {
