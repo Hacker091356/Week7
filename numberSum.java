@@ -1,4 +1,4 @@
-//Neil OZa
+//Neil
 //Importing the scanner
 import java.util.Scanner;
 
